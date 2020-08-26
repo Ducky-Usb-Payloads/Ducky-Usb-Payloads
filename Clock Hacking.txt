@@ -1,0 +1,47 @@
+REM Change Time Value and AM and PM Values
+REM Replace the values with whatever you would like
+REM Author: Scr1pt3r
+REM
+REM Open region settings
+DELAY 1000
+GUI r
+DELAY 100
+STRING intl.cpl
+ENTER
+REM Open additional settings
+DELAY 300
+TAB
+REPEAT 6
+DELAY 10
+ENTER
+REM Navigate to time tab
+DELAY 100
+TAB
+REPEAT 13
+DELAY 10
+RIGHT
+RIGHT
+REM Change long time and short time
+DELAY 10
+TAB	
+DELAY 10
+STRING tt
+DELAY 10
+TAB
+DELAY 10
+STRING tt
+DELAY 10
+TAB
+DELAY 10
+STRING Hello Friend
+DELAY 10
+TAB
+DELAY 10
+STRING Bye Friend
+DELAY 10
+TAB
+DELAY 10
+STRING A
+DELAY 10
+ENTER
+ALT F4
