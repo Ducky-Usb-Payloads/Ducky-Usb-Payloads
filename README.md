@@ -6,3 +6,4 @@ Yes i am working on that.
 So this updated every wednesday.
 Just remember I made this so don't say its yours.
 Bye.
+Also I din't know if these work, Im still saving up...
