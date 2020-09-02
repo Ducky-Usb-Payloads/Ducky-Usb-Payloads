@@ -1,4 +1,9 @@
 # Ducky-Usb-Payloads
+
+Worked on every wendnesday
+
+## Info
+
 For My Ducky Usb Payloads
 So how this works is i am working on Ducky Usb code and you can use it.
 It is encoded.
