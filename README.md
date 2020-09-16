@@ -12,4 +12,4 @@ Just remember I made some of (OP In File) this so don't say its yours.
 Bye.
 Also I don't know if these work, Im still saving up...
 Private Bug Tracker: https://duckyusbpayloads.atlassian.net/
-Release: 0.0.2-alpha.1
+Release: 0.0.2-alpha.2
